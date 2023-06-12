@@ -2,7 +2,7 @@
 
 ![Speech to Text App](https://github.com/BazaiHassan/images/blob/main/speechapp/speech-to-text.jpg)
 
-This is a simple Android app that demonstrates how to convert speech to text using the SpeechRecognizer API in Kotlin. The app allows users to start listening for speech input and displays the recognized text on the screen.
+This is a simple Android app that demonstrates how to convert speech to text using the SpeechRecognizer Class in Kotlin. The app allows users to start listening for speech input and displays the recognized text on the screen.
 
 ## Features
 
