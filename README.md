@@ -15,4 +15,8 @@ This is a simple Android app that demonstrates how to convert speech to text usi
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/BazaiHassan/SpeechToText.git
+
+or
+
+git@github.com:BazaiHassan/SpeechToText.git
